@@ -36,5 +36,5 @@ func counting(_ n: Int) -> [Int] {
     return result
 }
 
-counting(5)  // returns [0,1,1,2,1,2]
+counting(10)  // returns [0,1,1,2,1,2]
 //: [Next](@next)
